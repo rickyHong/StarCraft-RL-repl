@@ -79,7 +79,7 @@ We have various challenging scenarios for you to motivate trying to solve with r
 	</tr>
 	<tr>
 	   <td>Vul_VS_Zeal_v0(~3)</td>
-	   <td>[VultureVsZealot](https://TeamSAIDA.github.io/SAIDA_RL/VultureVSZealot/)</td>
+		<td><a href="https://TeamSAIDA.github.io/SAIDA_RL/VultureVSZealot/">VultureVsZealot</a></td>
 	   <td>Agent(Terran Vulture) should kill all Protoss Zealots while being damaged minimally.
 	   The number of zealots and existence of terrain depend on the version of map.</td>
 	   <td>It depends on the version of map.</td>
@@ -89,7 +89,7 @@ We have various challenging scenarios for you to motivate trying to solve with r
 	</tr>
 	<tr>
 	   <td>Avoid_Observer_v0</td>
-	   <td>[AvoidObserver](https://TeamSAIDA.github.io/SAIDA_RL/AvoidObserver/)</td>
+		<td><a href="https://TeamSAIDA.github.io/SAIDA_RL/AvoidObserver/">AvoidObserver</a></td>
 	   <td>Reach the top of map while avoiding observers in the middle area.</td>
 	   <td>N</td>
 	   <td>Scourge</td>
@@ -98,7 +98,7 @@ We have various challenging scenarios for you to motivate trying to solve with r
 	</tr>
 	<tr>
 	   <td>Avoid_Reaver_v0</td>
-	   <td>[AvoidReaver](https://TeamSAIDA.github.io/SAIDA_RL/AvoidReavers/)</td>
+		<td><a href="https://TeamSAIDA.github.io/SAIDA_RL/AvoidReavers/">AvoidReaver</a></td>
 	   <td>Reach the right-bottom area of the map while avoiding reavers in the middle area. </td>
 	   <td>N</td>
 	   <td>DropShip</td>
